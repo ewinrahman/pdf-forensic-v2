@@ -6,6 +6,8 @@ pdf-forensic is a PDF file investigation tool that extracts the MetaData from th
 
 Forked from https://github.com/xovim001/pdf-forensic
 
+This newer version of pdf-forensic (v2) is designed to extract URL(s), embedded and plain text, from the PDF file itself, helping the security analysts to investigate the file faster without screening/spotting the URL one by one.
+
 Requeriments
 ============
 1. Python 3.x
